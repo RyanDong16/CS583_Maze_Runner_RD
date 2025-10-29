@@ -59,4 +59,4 @@ Apocalypse Maze Escape (AME) is a 2D bird-eye view, single player, arcade-style 
 - The explosion barrier moves faster as you go further into the maze.
 
 ## Challenges:
-- 
+- Had to make the character's size smaller and make the maze walls' thinner than initially planned due not wanting to redo the maze outline
