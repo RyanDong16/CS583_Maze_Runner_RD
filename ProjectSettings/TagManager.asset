@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Walls
+  - XPGems
+  - BonusGems
+  - GhostGems
+  - SpeedGems
+  - Barrier
+  - WinHelicopter
+  - Soldier
+  - Background
+  - Detonator
+  - ShrinkGems
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Walls
+  - BorderWall
+  - Helicopter
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3116122961
+    locked: 0
+  - name: Walls
+    uniqueID: 3219342383
+    locked: 0
+  - name: XPGems
+    uniqueID: 3815739901
+    locked: 0
+  - name: BonusGems
+    uniqueID: 4226037717
+    locked: 0
+  - name: SpeedGems
+    uniqueID: 3164738891
+    locked: 0
+  - name: GhostGems
+    uniqueID: 1864911517
+    locked: 0
+  - name: ShrinkGems
+    uniqueID: 264563207
+    locked: 0
+  - name: Soldier
+    uniqueID: 91696721
+    locked: 0
+  - name: Barrier
+    uniqueID: 1159052841
+    locked: 0
+  - name: UI
+    uniqueID: 336318617
+    locked: 0
